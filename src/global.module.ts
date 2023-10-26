@@ -15,4 +15,4 @@ import configuration from 'config';
     }])
   ],
 })
-export class AppModule {}
+export class GlobalModule {}
